@@ -1,0 +1,107 @@
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\Hollow knight mod1.deps.json
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\Hollow knight mod1.dll
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\Hollow knight mod1.pdb
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\Assembly-CSharp.dll
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\PlayMaker.dll
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.Physics2DModule.dll
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.CoreModule.dll
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.UI.dll
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.UIModule.dll
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.AudioModule.dll
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.TextRenderingModule.dll
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.IMGUIModule.dll
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.PhysicsModule.dll
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.AnimationModule.dll
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.AIModule.dll
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.ParticleSystemModule.dll
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.ImageConversionModule.dll
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.ScreenCaptureModule.dll
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.VideoModule.dll
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\Assembly-CSharp-firstpass.dll
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.JSONSerializeModule.dll
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.dll
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.SharedInternalsModule.dll
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.UnityWebRequestModule.dll
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.AccessibilityModule.dll
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.VehiclesModule.dll
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.ClothModule.dll
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.ClusterInputModule.dll
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.ClusterRendererModule.dll
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.UNETModule.dll
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.DirectorModule.dll
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.PerformanceReportingModule.dll
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.UnityConnectModule.dll
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.WebModule.dll
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.ARModule.dll
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.VRModule.dll
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.UIElementsModule.dll
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.StyleSheetsModule.dll
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.AssetBundleModule.dll
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.CrashReportingModule.dll
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.GameCenterModule.dll
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.GridModule.dll
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.InputModule.dll
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.ParticlesLegacyModule.dll
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.SpriteMaskModule.dll
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.SpriteShapeModule.dll
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.TerrainModule.dll
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.TilemapModule.dll
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.WindModule.dll
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.Physics2DModule.xml
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.CoreModule.xml
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.UIModule.xml
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.AudioModule.xml
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.TextRenderingModule.xml
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.IMGUIModule.xml
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.PhysicsModule.xml
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.AnimationModule.xml
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.AIModule.xml
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.ParticleSystemModule.xml
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.ImageConversionModule.xml
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.ScreenCaptureModule.xml
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.UnityWebRequestWWWModule.xml
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.VideoModule.xml
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.JSONSerializeModule.xml
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.SharedInternalsModule.xml
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.UnityWebRequestModule.xml
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.AccessibilityModule.xml
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.VehiclesModule.xml
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.ClothModule.xml
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.TerrainPhysicsModule.xml
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.ClusterInputModule.xml
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.ClusterRendererModule.xml
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.UNETModule.xml
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.DirectorModule.xml
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.UnityAnalyticsModule.xml
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.PerformanceReportingModule.xml
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.UnityConnectModule.xml
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.WebModule.xml
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.ARModule.xml
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.VRModule.xml
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.UIElementsModule.xml
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.StyleSheetsModule.xml
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.AssetBundleModule.xml
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.CrashReportingModule.xml
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.GameCenterModule.xml
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.GridModule.xml
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.InputModule.xml
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.ParticlesLegacyModule.xml
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.SpriteMaskModule.xml
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.SpriteShapeModule.xml
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.TerrainModule.xml
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.TilemapModule.xml
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.UnityWebRequestAudioModule.xml
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.UnityWebRequestTextureModule.xml
+C:\Users\Rowan\source\repos\Hollow knight mod1\bin\Debug\netstandard2.0\UnityEngine.WindModule.xml
+C:\Users\Rowan\source\repos\Hollow knight mod1\obj\Debug\netstandard2.0\Hollow knight mod1.csprojAssemblyReference.cache
+C:\Users\Rowan\source\repos\Hollow knight mod1\obj\Debug\netstandard2.0\Hollow knight mod1.AssemblyInfoInputs.cache
+C:\Users\Rowan\source\repos\Hollow knight mod1\obj\Debug\netstandard2.0\Hollow knight mod1.AssemblyInfo.cs
+C:\Users\Rowan\source\repos\Hollow knight mod1\obj\Debug\netstandard2.0\Hollow knight mod1.csproj.CoreCompileInputs.cache
+C:\Users\Rowan\source\repos\Hollow knight mod1\obj\Debug\netstandard2.0\Hollow knight mod1.csproj.CopyComplete
+C:\Users\Rowan\source\repos\Hollow knight mod1\obj\Debug\netstandard2.0\Hollow knight mod1.dll
+C:\Users\Rowan\source\repos\Hollow knight mod1\obj\Debug\netstandard2.0\Hollow knight mod1.pdb
